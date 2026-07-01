@@ -11,10 +11,10 @@ Currently, I combine my academic studies with practical IT operations, focusing 
 Here are the primary tools and technologies I use to extract, transform, and manage data:
 
 * **Languages:** Python, SQL, JavaScript, PHP
-* **Data Processing & Analytics:** PySpark, Pandas, Databricks
+* **Data Processing & Analytics:** PySpark, Pandas, Databricks, dbt
 * **Database Management:** MySQL, MSSQL, Oracle, MongoDB
 * **Automation & Scraping:** Selenium, Custom Backend Scripts
-* **DevOps & Tools:** Linux, Windows Server, Git (GitHub/GitLab), Jira
+* **DevOps & Tools:** Linux, Windows Server, Git (GitHub/GitLab), Jira, Docker
 
 ---
 
